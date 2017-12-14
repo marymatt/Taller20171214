@@ -4,6 +4,6 @@
 *.xls
 *.bson
 *.docx
-*.md
+*Guia.md
 credencialesTwitterMarylin.py
 credencialesTwitterTaller.py
