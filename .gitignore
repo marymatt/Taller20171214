@@ -1,0 +1,9 @@
+#Archivos compilados de Python
+*.pyc
+*.txt
+*.xls
+*.bson
+*.docx
+*.md
+credencialesTwitterMarylin.py
+credencialesTwitterTaller.py
