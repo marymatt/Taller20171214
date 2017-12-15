@@ -18,7 +18,7 @@ Ingresar en  la carpeta donde se encuentre instalado python  en mi caso es C:\Py
 
            C:\Python27 y C:\Python27\Scripts
 
-Librerias
+**Librerias**
 
  1. Tweepy
 
