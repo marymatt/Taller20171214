@@ -3,26 +3,44 @@
 ## Prerequisitos:
 
 #### Herramientas
- 1. Python 2.7
- 2. Librerias
+1. Python 2.7
 
-  1. Tweepy
+Ingresar en  la carpeta donde se encuentre instalado python  en mi caso es C:\Python27
+   1. Descargar  el archivo get-pip  del enlace https://bootstrap.pypa.io/get-pip.py dentro de la carpeta
 
-            pip install tweepy
-  2. Paquete de seguridad
+                  C:\Python27
+2. Abrir la consola  y poner
 
-            pip install requests[security]
-  3. Nltk con el paquete de
-   stopwords
+               cd C:\Python27
 
-            pip install nltk
-  4. Sklearn
+3.  Para descargar PIP debe ejecutar
 
-            pip install sklearn
-  5. Numpy
+                 python.exe get-pip.py
+4. Editar las variables de entorno en Path y poner
 
-            pip install numpy
-  6. Scipy
+           C:\Python27 y C:\Python27\Scripts
+
+2. Librerias
+
+ 1. Tweepy
+
+           pip install tweepy
+ 2. Paquete de seguridad
+
+           pip install requests[security]
+ 3. Nltk con el paquete de
+  stopwords
+
+           pip install nltk
+ 4. Sklearn
+
+           pip install sklearn
+ 5. Numpy
+
+           pip install numpy
+
+ 6. Scipy
+
             pip install scipy
 
 #### Otros
