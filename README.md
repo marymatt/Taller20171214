@@ -3,7 +3,7 @@
 ## Prerequisitos:
 
 #### Herramientas
-1. **Python 2.7:**
+**Python 2.7:**
 Ingresar en  la carpeta donde se encuentre instalado python  en mi caso es C:\Python27. Descargar  el archivo get-pip  del enlace https://bootstrap.pypa.io/get-pip.py dentro.
 
   1.  Abrir la consola  y poner
@@ -18,7 +18,7 @@ Ingresar en  la carpeta donde se encuentre instalado python  en mi caso es C:\Py
 
            C:\Python27 y C:\Python27\Scripts
 
-2. Librerias
+Librerias
 
  1. Tweepy
 
