@@ -5,16 +5,15 @@
 #### Herramientas
 1. **Python 2.7:**
 Ingresar en  la carpeta donde se encuentre instalado python  en mi caso es C:\Python27. Descargar  el archivo get-pip  del enlace https://bootstrap.pypa.io/get-pip.py dentro.
-
-  1. Abrir la consola  y poner
+  1.  Abrir la consola  y poner
 
                cd C:\Python27
 
-  2. Para descargar PIP debe ejecutar
+  2.  Para descargar PIP debe ejecutar
 
                  python.exe get-pip.py
 
-  3. Editar las variables de entorno en Path y poner
+  3.  Editar las variables de entorno en Path y poner
 
            C:\Python27 y C:\Python27\Scripts
 
