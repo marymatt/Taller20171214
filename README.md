@@ -5,6 +5,7 @@
 #### Herramientas
 1. **Python 2.7:**
 Ingresar en  la carpeta donde se encuentre instalado python  en mi caso es C:\Python27. Descargar  el archivo get-pip  del enlace https://bootstrap.pypa.io/get-pip.py dentro.
+
   1.  Abrir la consola  y poner
 
                cd C:\Python27
@@ -22,13 +23,16 @@ Ingresar en  la carpeta donde se encuentre instalado python  en mi caso es C:\Py
  1. Tweepy
 
            pip install tweepy
+
  2. Paquete de seguridad
 
            pip install requests[security]
+
  3. Nltk con el paquete de
   stopwords
 
            pip install nltk
+
  4. Sklearn
 
            pip install sklearn
