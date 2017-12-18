@@ -8,9 +8,9 @@ Creado el 3 de Abril del 2017
 import re
 import nltk
 #nltk.download('stopwords')
+#nltk.download('punkt')
 import string
 from contraerPalabras import CONTRACCION_MAPA
-#from hastags import eliminarPalabras
 from nltk.stem import SnowballStemmer
 from pattern.en import tag
 from nltk.corpus import wordnet as wn
